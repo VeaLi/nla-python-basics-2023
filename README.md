@@ -5,10 +5,10 @@ Python 3 - популярный язык программирования, ис�
 
 ___
 ### 1. Python vs. R: в чем разница?
-* [Что представляет собой Python?](0/what-is-python)
-* [Как мне установить Python?](0/how-to-install-python)
-* [Что такое Jupyter Notebook?](0/what-is-jupyter-notebook)
-* [Как я могу использовать Google Collab?](0/google-collab)
+* [Что представляет собой Python?](https://github.com/VeaLi/nla-python-basics-2023/tree/main/0/0-what-is-python)
+* [Как мне установить Python?](https://github.com/VeaLi/nla-python-basics-2023/tree/main/0/1-how-to-install-python)
+* [Что такое Jupyter Notebook?](https://github.com/VeaLi/nla-python-basics-2023/tree/main/0/2-what-is-jupyter-notebook)
+* [Как я могу использовать Google Collab?](https://github.com/VeaLi/nla-python-basics-2023/tree/main/0/3-google-collab)
 
 ### 2. Язык Python и его синтаксис
 ### 3. Работа с данными с использованием Pandas
