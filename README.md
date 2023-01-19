@@ -11,6 +11,7 @@ ___
 * [Как я могу использовать Google Collab?](https://github.com/VeaLi/nla-python-basics-2023/tree/main/0/3-google-collab)
 
 ### 2. Язык Python и его синтаксис
+* [Переменные](https://github.com/VeaLi/nla-python-basics-2023/tree/main/1/1-variables)
 ### 3. Работа с данными с использованием Pandas
 ### 4. Создание графиков с помощью Matplotlib и seaborn
 ### 5. Расчет статистических показателей c Scipy и satsmodels

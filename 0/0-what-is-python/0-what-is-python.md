@@ -72,6 +72,8 @@ def f(a, b):
 
 print(f(4, 3))
 ```
+
+Также смотри сравнение в [https://web.vu.lt/mif/a.buteikis/wp-content/uploads/PE_Book/2-7-r-vs-python.html](https://web.vu.lt/mif/a.buteikis/wp-content/uploads/PE_Book/2-7-r-vs-python.html)
 ___
 
 Однако стоит помнить, что на R написано __множество уникальных библиотек__, что обеспечивает его востребованность.
