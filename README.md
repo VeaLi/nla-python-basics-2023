@@ -13,6 +13,7 @@ ___
 ### 2. Язык Python и его синтаксис
 * [Переменные](https://github.com/VeaLi/nla-python-basics-2023/tree/main/1/0-variables)
 * [Импортирование и использование библиотек](https://github.com/VeaLi/nla-python-basics-2023/tree/main/1/1-load-libraries)
+* [Вектора (Списки), циклы, функции и логические условия](https://github.com/VeaLi/nla-python-basics-2023/tree/main/1/2-lists-cycles-and-functions)
 ### 3. Работа с данными с использованием Pandas. Использование модуля OS
 * [Pandas](https://github.com/VeaLi/nla-python-basics-2023/tree/main/2/0-pandas)
 ### 4. Создание графиков с помощью Matplotlib и seaborn
