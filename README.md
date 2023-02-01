@@ -17,7 +17,8 @@ ___
 ### 3. Работа с данными с использованием Pandas. Использование модуля OS
 * [Pandas](https://github.com/VeaLi/nla-python-basics-2023/tree/main/2/0-pandas)
 ### 4. Создание графиков с помощью Matplotlib и seaborn
-* [Пример графиков которые можно нарисовать с matplotlib (на данных NU)](https://github.com/VeaLi/nla-python-basics-2023/tree/main/3)
+* [Пример графиков которые можно нарисовать с matplotlib (на данных NU)](https://github.com/VeaLi/nla-python-basics-2023/tree/main/3/examples)
+* [Принцип работы с matplotlib](https://github.com/VeaLi/nla-python-basics-2023/tree/main/3/0-matplotlib-basics)
 ### 5. Расчет статистических показателей c Scipy и satsmodels
 ### 6. Техники машинного обучения для анализа данных
 ### 7. Кладограммы и филогенетические деревья 
